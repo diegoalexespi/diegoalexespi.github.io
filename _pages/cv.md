@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Mathematics, Johns Hopkins University, 2015
+* MD-Ph.D in Immunology, Perelman School of Medicine at the University of Pennsylvania, 2025 (expected)
 
 Work experience
 ======
