@@ -7,7 +7,7 @@ redirect_from:
   - /software
 ---
 
-![](/images/monkey.png){:height="2%" width="2%"}
+![](/images/monkey.png){:height="10%" width="10%"}
 ## [barcodetrackR](http://d93espinoza.github.io/barcodetrackR)
 * An R package for the analysis and visualization of cellular barcoding experiments
 * Developed by myself and others at the Dunbar Laboratory at the National Institutes of Health
