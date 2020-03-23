@@ -41,8 +41,7 @@ Awards
 * Dean’s Undergraduate Research Award, Johns Hopkins University 2014 – 2015
 * Baltimore HIV/AIDS CFAR Scholar 2015
 * Provost’s Undergraduate Research Award, Johns Hopkins University 2013
-* Young Investigator Award, CROI 2013
-  * Awarded by Conference on Retroviruses and Opportunistic Infections 2013
+* Young Investigator Award, Conference on Retroviruses and Opportunistic Infections 2013
 
 Publications
 ======
