@@ -26,10 +26,23 @@ Research experience
   
 Skills
 ======
+* Bioinformatics experience
+  * RNA-seq, scRNA-seq, ChIP-seq analysis
 * Extensive experience with R
   * Experience with Shiny interface 
 * Intermediate experience with Python and command line tools
 * Experience with Java, C
+
+Awards
+======
+* Meritorious Abstract Travel Award, American Society for Gene and Cell Therapy 2018
+* Outstanding Abstract Achievement Award, American Society for Hematology 2017
+  * [Highest scoring abstract for 2017 in the Medical Student category](https://www.hematology.org/awards/award-recipients/outstanding-abstract-achievement)
+* Dean’s Undergraduate Research Award, Johns Hopkins University 2014 – 2015
+* Baltimore HIV/AIDS CFAR Scholar 2015
+* Provost’s Undergraduate Research Award, Johns Hopkins University 2013
+* Young Investigator Award, CROI 2013
+  * Awarded by Conference on Retroviruses and Opportunistic Infections 2013
 
 Publications
 ======
