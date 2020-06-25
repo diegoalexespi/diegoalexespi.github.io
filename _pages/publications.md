@@ -9,8 +9,7 @@ author_profile: true
 
 10\. [Clonal Tracking of Erythropoiesis in Rhesus Macaques](https://doi.org/10.3324/haematol.2019.231811). Fan X, et al. _Haematologica_ 2019.
 
-9\. [**Aberrant Clonal Hematopoiesis Following Lentiviral Vector Transduction of HSPCs in a Rhesus Macaque**](https://doi.org/10.1016/j.ymthe.2019.04.003). **Espinoza DA**\*, Fan X\*, Yang D\* et al. _Molecular Therapy_ 2019. \* = authors contributed equally.
- * *Data available at*: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE153130
+9\. [**Aberrant Clonal Hematopoiesis Following Lentiviral Vector Transduction of HSPCs in a Rhesus Macaque**](https://doi.org/10.1016/j.ymthe.2019.04.003). **Espinoza DA**\*, Fan X\*, Yang D\* et al. _Molecular Therapy_ 2019. \* = authors contributed equally. Data: [GSE153130](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE153130)
 
 8\. [**Clonal Expansion and Compartmentalized Maintenance of Rhesus Macaque NK Cell Subsets**](https://doi.org/10.1126/sciimmunol.aat9781). Wu C\*, **Espinoza DA**\* et al. _Science Immunology_ 2019. \* = authors contributed equally.
 
