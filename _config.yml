@@ -11,9 +11,9 @@ title                    : "Diego A. Espinoza's Website"
 title_separator          : "-"
 name                     : &name "Diego A. Espinoza"
 description              : &description "personal description"
-url                      : "https://d93espinoza.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://diegoalexespi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "d93espinoza/d93espinoza.github.io"
+repository               : "diegoalexespi/diegoalexespi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "d93espinoza"
+  github           : "diegoalexespi"
   google_plus      :
   keybase          :
   instagram        :
