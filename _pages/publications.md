@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+12\. [**barcodetrackR: an R package for the interrogation of clonal tracking data**](https://doi.org/10.1101/2020.07.23.212787). **Espinoza DA**\*, Mortlock RD\*, et al. _bioRxiv_ 2020. \* = authors contributed equally.
+
 11\. [Impact of CMV Infection on Natural Killer Cell Clonal Repertoire in CMV-Naïve Rhesus Macaques](https://doi.org/10.3389/fimmu.2019.02381). Truitt LL, et al. _Frontiers in Immunology_ 2019.
 
 10\. [Clonal Tracking of Erythropoiesis in Rhesus Macaques](https://doi.org/10.3324/haematol.2019.231811). Fan X, et al. _Haematologica_ 2019.
