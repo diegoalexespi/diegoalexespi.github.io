@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-## [barcodetrackR](http://diegoalexespi.github.io/barcodetrackR)
+## [barcodetrackR](http://dunbarlabNIH.github.io/barcodetrackR)
 * An R package for the analysis and visualization of cellular barcoding experiments
 * Developed by myself and others at the Dunbar Laboratory at the National Institutes of Health
-* See [documentation](http://diegoalexespi.github.io/barcodetrackR)
-* Preprint in progress
+* See [documentation](http://dunbarlabNIH.github.io/barcodetrackR)
+* [Preprint on bioRxiv](https://doi.org/10.1101/2020.07.23.212787)
 
