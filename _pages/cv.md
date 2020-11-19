@@ -16,6 +16,10 @@ Education
 
 Research experience
 ======
+* May 2020 - Present: Graduate student
+  * Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA
+  * Principal Investigator: [Dr. Amit Bar-Or](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8937426)
+  
 * May 2015 - July 2017: Post-baccalaureate researcher
   * National Heart Lung and Blood Institute, National Institutes of Health, Bethesda, MD
   * Principal Investigator: [Dr. Cynthia E. Dunbar](https://irp.nih.gov/pi/cynthia-dunbar)
@@ -35,6 +39,7 @@ Skills
 
 Awards
 ======
+* T32 Penn Computational Genomics Training Grant Trainee 2020-2021
 * Meritorious Abstract Travel Award, American Society for Gene and Cell Therapy 2018
 * Outstanding Abstract Achievement Award, American Society for Hematology 2017
   * [Highest scoring abstract for 2017 in the Medical Student category](https://www.hematology.org/awards/award-recipients/outstanding-abstract-achievement)
@@ -50,3 +55,4 @@ Publications
 Service and leadership
 ======
 * Monthly volunteer sub-intern at [Puentes de Salud](http://www.puentesdesalud.org/)
+* Organizer, Penn Single Cell Working Group [Link to sign-up](https://forms.gle/1jiik1YiP5QwLWB16)
