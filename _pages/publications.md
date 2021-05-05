@@ -5,11 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-12\. [**barcodetrackR: an R package for the interrogation of clonal tracking data**](https://doi.org/10.1101/2020.07.23.212787). **Espinoza DA**\*, Mortlock RD\*, et al. _bioRxiv_ 2020. \* = authors contributed equally.
+13\. [**Interrogation of clonal tracking data using barcodetrackR**](https://doi.org/10.1038/s43588-021-00057-4). **Espinoza DA**\*, Mortlock RD\*, et al. _Nature Computational Science_ 2021. \* = authors contributed equally.
 
-11\. [Impact of CMV Infection on Natural Killer Cell Clonal Repertoire in CMV-Naïve Rhesus Macaques](https://doi.org/10.3389/fimmu.2019.02381). Truitt LL, et al. _Frontiers in Immunology_ 2019.
+12\. [Comparative engraftment and clonality of macaque HSPCs expanded on human umbilical vein endothelial cells versus non-expanded cells](https://doi.org/10.1016/j.omtm.2021.02.009). Srivastava SK, et al. _Mol Therapy Methods & Clinical Development_ 2021.
 
-10\. [Clonal Tracking of Erythropoiesis in Rhesus Macaques](https://doi.org/10.3324/haematol.2019.231811). Fan X, et al. _Haematologica_ 2019.
+11\. [Clonal Tracking of Erythropoiesis in Rhesus Macaques](https://doi.org/10.3324/haematol.2019.231811). Fan X, et al. _Haematologica_ 2020.
+
+10\. [Impact of CMV Infection on Natural Killer Cell Clonal Repertoire in CMV-Naïve Rhesus Macaques](https://doi.org/10.3389/fimmu.2019.02381). Truitt LL, et al. _Frontiers in Immunology_ 2019.
 
 9\. [**Aberrant Clonal Hematopoiesis Following Lentiviral Vector Transduction of HSPCs in a Rhesus Macaque**](https://doi.org/10.1016/j.ymthe.2019.04.003). **Espinoza DA**\*, Fan X\*, Yang D\* et al. _Molecular Therapy_ 2019. \* = authors contributed equally. Data: [GSE153130](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE153130)
 
