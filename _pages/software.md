@@ -10,7 +10,8 @@ redirect_from:
 
 ## [barcodetrackR](http://dunbarlabNIH.github.io/barcodetrackR)
 * An R package for the analysis and visualization of cellular barcoding experiments
-* Developed by myself and others at the Dunbar Laboratory at the National Institutes of Health
+* Developed by myself, Ryland Mortlock, and others at the Dunbar Laboratory at the National Institutes of Health
 * See [documentation](http://dunbarlabNIH.github.io/barcodetrackR)
-* [Preprint on bioRxiv](https://doi.org/10.1101/2020.07.23.212787)
+* Manuscript: [Nature Computational Science](https://doi.org/10.1038/s43588-021-00057-4)
+* News and views: [Nature Computational Science](https://doi.org/10.1038/s43588-021-00062-7)
 
