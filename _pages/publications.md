@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+14\. [**Distinct stage-specific transcriptional states of B cells in human tonsillar tissue**](https://www.biorxiv.org/content/10.1101/2021.08.17.456535v1). **Espinoza DA**, et al. _bioRxiv_ 2021. Data: [GSE182221](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE182221) & [GSE182266](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE182266). Code: [GitHub Repository](https://github.com/diegoalexespi/espinozada-tonsil-paper-2021)
+
 13\. [**Interrogation of clonal tracking data using barcodetrackR**](https://doi.org/10.1038/s43588-021-00057-4). **Espinoza DA**\*, Mortlock RD\*, et al. _Nature Computational Science_ 2021. \* = authors contributed equally.
 
 12\. [Comparative engraftment and clonality of macaque HSPCs expanded on human umbilical vein endothelial cells versus non-expanded cells](https://doi.org/10.1016/j.omtm.2021.02.009). Srivastava SK, et al. _Mol Therapy Methods & Clinical Development_ 2021.
