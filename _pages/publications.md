@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-14\. [**Distinct stage-specific transcriptional states of B cells in human tonsillar tissue**](https://www.biorxiv.org/content/10.1101/2021.08.17.456535v1). **Espinoza DA**, et al. _bioRxiv_ 2021. Data: [GSE182221](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE182221) & [GSE182266](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE182266). Code: [GitHub Repository](https://github.com/diegoalexespi/espinozada-tonsil-paper-2021)
+15\. [**Distinct stage-specific transcriptional states of B cells in human tonsillar tissue**](https://www.biorxiv.org/content/10.1101/2021.08.17.456535v1). **Espinoza DA**, et al. _bioRxiv_ 2021. Data: [GSE182221](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE182221) & [GSE182266](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE182266). Code: [GitHub Repository](https://github.com/diegoalexespi/espinozada-tonsil-paper-2021)
+
+14\. [Cellular and humoral immune responses following SARS-CoV-2 mRNA vaccination in patients with multiple sclerosis on anti-CD20 therapy](https://doi.org/10.1038/s41591-021-01507-2). Apostolidis SA\*, Kakara M\*, Painter MM\*, Goel RR\* et al. _Nature Medicine_ 2021. \* = authors contributed equally.
 
 13\. [**Interrogation of clonal tracking data using barcodetrackR**](https://doi.org/10.1038/s43588-021-00057-4). **Espinoza DA**\*, Mortlock RD\*, et al. _Nature Computational Science_ 2021. \* = authors contributed equally.
 
