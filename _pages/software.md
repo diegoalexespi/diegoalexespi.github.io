@@ -15,3 +15,6 @@ redirect_from:
 * Manuscript: [Nature Computational Science](https://doi.org/10.1038/s43588-021-00057-4)
 * News and views: [Nature Computational Science](https://doi.org/10.1038/s43588-021-00062-7)
 
+## [pochi](http://github.com/diegoalexespi/pochi)
+* An R package that is a collection of created and community-aggregated functions to supplement the existing [Seurat](http://github.com/satijalab/Seurat) package.
+* 
