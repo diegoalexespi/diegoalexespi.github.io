@@ -39,6 +39,7 @@ Skills
 
 Awards
 ======
+* Blavatnik Family Fellowship Recipient (Penn) 2022-2023
 * T32 Penn Computational Genomics Training Grant Trainee 2020-2021
 * Meritorious Abstract Travel Award, American Society for Gene and Cell Therapy 2018
 * Outstanding Abstract Achievement Award, American Society for Hematology 2017
