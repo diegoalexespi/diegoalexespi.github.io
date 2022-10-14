@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+16\. [Immune aging in multiple sclerosis is characterized by abnormal CD4 T cell activation and increased frequencies of cytotoxic CD4 T cells with advancing age](https://doi.org/10.1016/j.ebiom.2022.104179). Zuroff L, et al. _eBioMedicine_ 2022.
+
 15\. [**Distinct stage-specific transcriptional states of B cells in human tonsillar tissue**](https://www.biorxiv.org/content/10.1101/2021.08.17.456535v1). **Espinoza DA**, et al. _bioRxiv_ 2021. Data: [GSE182221](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE182221) & [GSE182266](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE182266). Code: [GitHub Repository](https://github.com/diegoalexespi/espinozada-tonsil-paper-2021)
 
 14\. [Cellular and humoral immune responses following SARS-CoV-2 mRNA vaccination in patients with multiple sclerosis on anti-CD20 therapy](https://doi.org/10.1038/s41591-021-01507-2). Apostolidis SA\*, Kakara M\*, Painter MM\*, Goel RR\* et al. _Nature Medicine_ 2021. \* = authors contributed equally.
