@@ -11,7 +11,7 @@ author_profile: true
 
 17\. [**Distinct stage-specific transcriptional states of B cells in human tonsillar tissue**](https://doi.org/10.1172/jci.insight.155199). **Espinoza DA**, et al. _JCI Insight_ 2023. Data: [GSE182221](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE182221) & [GSE182266](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE182266). Code: [GitHub Repository](https://github.com/diegoalexespi/espinozada-tonsil-paper-2021)
 
-16.\ [Comparison of busulfan and total body irradiation conditioning on hematopoietic clonal dynamics following lentiviral gene transfer in rhesus macaques](https://doi.org/10.1182/blood.2024023933). Abraham DM, et al. _Molecular Therapy Methods & Clinical Development_ 2023.
+16\. [Comparison of busulfan and total body irradiation conditioning on hematopoietic clonal dynamics following lentiviral gene transfer in rhesus macaques](https://doi.org/10.1182/blood.2024023933). Abraham DM, et al. _Molecular Therapy Methods & Clinical Development_ 2023.
 
 15\. [Immune aging in multiple sclerosis is characterized by abnormal CD4 T cell activation and increased frequencies of cytotoxic CD4 T cells with advancing age](https://doi.org/10.1016/j.ebiom.2022.104179). Zuroff L, et al. _eBioMedicine_ 2022.
 
