@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a 4th year MD-PhD candidate in the laboratory of Amit Bar-Or, MD at the Perelman School of Medicine at the University of Pennsylvania. I am currently a memeber of the Immunology Graduate Group, and my interests lie in investigating multiple sclerosis and the immune system both through leveraging and developing systems biology approaches.
+Hi! I am an MD-PhD student at the Perelman School of Medicine at the University of Pennsylvania (expected graduation 2025). I am currently a memeber of Amit Bar-Or's lab, and my interests are in investigating the immune mechanisms of neuroinflammatory disorders in children, including multiple sclerosis.
