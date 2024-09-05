@@ -19,7 +19,7 @@ author_profile: true
 
 13\. [**Interrogation of clonal tracking data using barcodetrackR**](https://doi.org/10.1038/s43588-021-00057-4). **Espinoza DA**\*, Mortlock RD\*, et al. _Nature Computational Science_ 2021. \* = authors contributed equally.
 
-12\. [Comparative engraftment and clonality of macaque HSPCs expanded on human umbilical vein endothelial cells versus non-expanded cells](https://doi.org/10.1016/j.omtm.2021.02.009). Srivastava SK, et al. _Mol Therapy Methods & Clinical Development_ 2021.
+12\. [Comparative engraftment and clonality of macaque HSPCs expanded on human umbilical vein endothelial cells versus non-expanded cells](https://doi.org/10.1016/j.omtm.2021.02.009). Srivastava SK, et al. _Molecular Therapy Methods & Clinical Development_ 2021.
 
 11\. [Clonal Tracking of Erythropoiesis in Rhesus Macaques](https://doi.org/10.3324/haematol.2019.231811). Fan X, et al. _Haematologica_ 2020.
 
