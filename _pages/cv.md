@@ -16,7 +16,7 @@ Education
 
 Research experience
 ======
-* May 2020 - Present: Graduate student
+* May 2020 - September 2023: Graduate student
   * Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA
   * Principal Investigator: [Dr. Amit Bar-Or](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8937426)
   
@@ -30,6 +30,8 @@ Research experience
   
 Skills
 ======
+* Flow cytometry
+* 10X Genomics processing
 * Bioinformatics experience
   * RNA-seq, scRNA-seq, ChIP-seq analysis
 * Extensive experience with R
@@ -39,6 +41,7 @@ Skills
 
 Awards
 ======
+* [F31 Ruth L. Kirschstein Predoctoral Individual National Research Service Award 2023-2024](https://reporter.nih.gov/project-details/10386390)
 * Blavatnik Family Fellowship Recipient (Penn) 2022-2023
 * T32 Penn Computational Genomics Training Grant Trainee 2020-2021
 * Meritorious Abstract Travel Award, American Society for Gene and Cell Therapy 2018
@@ -55,5 +58,5 @@ Publications
   
 Service and leadership
 ======
-* Monthly volunteer sub-intern at [Puentes de Salud](http://www.puentesdesalud.org/)
+* Volunteer, [Puentes de Salud](http://www.puentesdesalud.org/)
 * Organizer, Penn Single Cell Working Group [Link to sign-up](https://forms.gle/1jiik1YiP5QwLWB16)
